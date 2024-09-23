@@ -33,8 +33,7 @@ Enter the directory to organize when prompted:
 Enter the directory to organize: /path/to/your/directory
 
 Example
-Before running the script:
-
+## Before running the script: ##
 # Downloads/
 ├── document.pdf
 
@@ -42,13 +41,18 @@ Before running the script:
 
 ├── video.mp4
 
+
 ├── song.mp3
 
 ├── archive.zip
 
 ├── notes.txt
 
-After running the script:
+![Screenshot from 2024-09-23 16-16-41](https://github.com/user-attachments/assets/1fc245a6-a414-48ea-aad2-86b99031be78)
+
+
+
+## After running the script: ##
 
 # Downloads/
 ├── Archives/
@@ -67,9 +71,17 @@ After running the script:
 ├── Music/
 
 └── song.mp3
----
 
 ├── Videos/
 
 │   └── video.mp4
+
+
+# OUTPUT
+
+![Screenshot from 2024-09-23 16-22-53](https://github.com/user-attachments/assets/68669ddd-3372-4582-bbe8-b250477c0b11)
+
+
+
+
 
